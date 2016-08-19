@@ -6,6 +6,7 @@
 /config/mount.php
 /apps/inc.php
 /assets
+/composer.phar
 
 # ignore all apps except core ones
 /apps*/*
